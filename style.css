@@ -1,0 +1,199 @@
+h1 {
+    color: black;
+    font-size:75px;
+    margin: 25px;
+    background-color: F0F3A6;
+    text-align: center;
+}
+
+    
+
+html {
+    background-color: #8D9193;
+}
+#index {
+    font-size: 30px;
+    text-decoration: none;
+    color:black;
+    position: absolute;
+    bottom:20px;
+    right: 20px;
+    background-color: white;    
+}
+#continuetomain {
+    font-size: 30px;
+    text-decoration: none;
+    color:black;
+    position: absolute;
+    bottom:20px;
+    right: 20px;
+    background-color: white;    
+}
+
+#backtomain{
+    font-size: 30px;
+    text-decoration: none;
+    color:black;
+    position: absolute;
+    bottom:-170px;
+    left: 20px;
+    background-color: white; 
+}
+#mainbacktoindex{
+    font-size:30px;
+    text-decoration: none;
+    color:black;
+    position: absolute;
+    bottom:20px;
+    left: 20px;
+    background-color: white; 
+}
+#backtograde7{
+    font-size:30px;
+    text-decoration: none;
+    color:black;
+    position: absolute;
+    bottom:20px;
+    left: 20px;
+    background-color: white; 
+}
+#seven{
+    border-style: solid;
+    text-decoration: none;
+    font-size: 40px;
+    color:black;
+    position: absolute;
+    top:120px;
+    left:40px;
+    background-color: #B7E2F8;  
+}
+#eight{
+    border-style: solid;
+    text-decoration: none;
+    font-size: 40px;
+    color:black;
+    position: absolute;
+    top:120px;
+    right:40px;
+    background-color: #a0dcfa;  
+}
+#nine{
+    border-style: solid;
+    text-decoration: none;
+    font-size: 40px;
+    color:black;
+    position: absolute;
+    top:270px;
+    left:40px;
+    background-color: #95D8F9;  
+}
+#ten{
+    border-style: solid;
+    text-decoration: none;
+    font-size: 40px;
+    color:black;
+    position: absolute;
+    top:270px;
+    right:40px;
+    background-color: #6FCBF9;  
+}
+#eleven{
+    border-style: solid;
+    text-decoration: none;
+    font-size: 40px;
+    color:black;
+    position: absolute;
+    top:420px;
+    left:40px;
+    background-color: #48BEF9;  
+}
+#twelve{
+    border-style: solid;
+    text-decoration: none;
+    font-size: 40px;
+    color:black;
+    position: absolute;
+    top:420px;
+    right:40px;
+    background-color: #1AADF7;  
+}
+
+#logo{
+    width: 600px;
+    height:200px;
+}
+.logoedu{
+    text-align: center;
+}
+
+#goldtree{
+    width: auto;
+    height:550px;
+}
+.goldentree{
+    text-align: center;
+}
+
+#proto1{
+    border-style: solid;
+    text-decoration: none;
+    font-size: 40px;
+    color:black;
+    position: absolute;
+    top:200px;
+    left:700px;
+    background-color: #ffffff;  
+}
+#proto2{
+    border-style: solid;
+    text-decoration: none;
+    font-size: 40px;
+    color:black;
+    position: absolute;
+    top:275px;
+    left:700px;
+    background-color: #ffffff;  
+}
+#proto3{
+    border-style: solid;
+    text-decoration: none;
+    font-size: 40px;
+    color:black;
+    position: absolute;
+    top:350px;
+    left:700px;
+    background-color: #ffffff;  
+}
+#proto4{
+    border-style: solid;
+    text-decoration: none;
+    font-size: 40px;
+    color:black;
+    position: absolute;
+    top:425px;
+    left:700px;
+    background-color: #ffffff;  
+}
+#proto5{
+    border-style: solid;
+    text-decoration: none;
+    font-size: 40px;
+    color:black;
+    position: absolute;
+    top:500px;
+    left:700px;
+    background-color: #ffffff;  
+}
+#inte{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#intep{
+    font-size: 25px;
+    text-align: center;
+}
+#videofrac{
+    position:absolute;
+    right:400px;
+    top:-10;
+}
